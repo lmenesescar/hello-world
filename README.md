@@ -1,2 +1,4 @@
 # hello-world
-I am a beginner
+Mi nombre es Luis Meneses
+100% Nicaraguense
+Mi mayor deseo es aprender a programar
